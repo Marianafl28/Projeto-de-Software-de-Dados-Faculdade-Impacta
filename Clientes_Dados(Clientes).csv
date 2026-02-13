@@ -1,0 +1,51 @@
+ID;Comprador;Empresa;Porte;Cidade;Estado;Valor;Quantidade;Segmento;Data do Contrato;Telefone;Status
+1;Carlos;Alfa Comércio Ltda;Médio;Recife;PE;100000;44;Varejo;1/24/2023;(11) 97131-3807;Ativo
+2;Daniel;Beta Soluções Empresariais;Médio;Salvador;BA;120000;67;Alimentos;10/07/2025;(11) 93166-3856;Ativo
+3;Eduardo;Gamma Indústria S.A.;Pequeno;Salvador;BA;135000;56;Combustivel;7/29/2025;(11) 98670-2457;Ativo
+4;Fernanda;Delta Serviços Corporativos;Pequeno;Porto Alegre;RS;150000;56;Química;1/26/2024;(11) 91300-4622;Ativo
+5;Gabriela;Omega Tecnologia Ltda;Médio;Recife;PE;165000;56;Animal;02/05/2023;(11) 97665-4535;Ativo
+6;Henrique;Aurora Distribuidora;Médio;Belo Horizonte;MG;180000;77;Varejo;5/26/2024;(11) 94458-5725;Ativo
+7;Isabela;Horizonte Logística;Grande;Curitiba;PR;195000;68;Alimentos;11/18/2023;(11) 93985-4605;Ativo
+8;João;Pioneira Alimentos;Grande;Curitiba;PR;210000;21;Combustivel;01/11/2024;(11) 98135-3735;Ativo
+9;Karen;Nova Era Agronegócio;Pequeno;São Paulo;SP;225000;42;Química;1/24/2025;(11) 94004-9064;Ativo
+10;Lucas;Vale Verde Produtos Naturais;Grande;Porto Alegre;RS;240000;31;Animal;11/28/2023;(11) 99720-5765;Desativo
+11;Mariana;Atlas Consultoria;Pequeno;Porto Alegre;RS;260000;15;Varejo;12/05/2023;(11) 92172-6771;Desativo
+12;Nathalia;Império Comercial;Pequeno;São Paulo;SP;280000;48;Alimentos;02/03/2023;(11) 91026-3869;Desativo
+13;Otávio;Sol Nascente Exportação;Grande;São Paulo;SP;300000;48;Combustivel;7/25/2025;(11) 97169-5917;Desativo
+14;Paula;Terra Fértil Agro;Grande;Salvador;BA;320000;57;Química;10/23/2023;(11) 94388-5448;Desativo
+15;Rafael;Integra Sistemas;Grande;Porto Alegre;RS;340000;65;Animal;01/09/2024;(11) 92422-7192;Desativo
+16;Sabrina;Prime Solutions;Pequeno;Belo Horizonte;MG;360000;74;Varejo;4/28/2024;(11) 99879-3644;Desativo
+17;Thiago;Master Business Group;Pequeno;São Paulo;SP;380000;82;Alimentos;3/14/2023;(11) 97798-7823;Desativo
+18;Vanessa;União Mercantil;Pequeno;Curitiba;PR;400000;91;Combustivel;10/26/2024;(11) 92455-1528;Desativo
+19;William;Futura Inovações;Médio;Salvador;BA;420000;99;Química;6/16/2023;(11) 91232-4730;Desativo
+20;Olga;Brasil Central Comércio;Pequeno;Recife;PE;450000;108;Animal;06/02/2025;(11) 94798-8175;Desativo
+21;Marina;StartUp Vision;Médio;Salvador;BA;480000;116;Varejo;7/15/2024;(11) 92520-7858;Desativo
+22;Mariana;Avante Corporações;Médio;Salvador;BA;500000;125;Alimentos;02/04/2025;(11) 91892-4814;Desativo
+23;Isabelle;Evoluir Gestão;Médio;Rio de Janeiro;RJ;530000;133;Combustivel;12/18/2025;(11) 99167-2705;Desativo
+24;Claudio;Nobreza Empresarial;Médio;São Paulo;SP;560000;142;Química;08/12/2025;(11) 96999-2662;Ativo
+25;Claudia;Global Trade Brasil;Pequeno;Porto Alegre;RS;600000;150;Animal;09/08/2024;(11) 94843-2652;Desativo
+26;Ines;Fortaleza Supply;Pequeno;Porto Alegre;RS;650000;159;Varejo;02/03/2024;(11) 99652-8255;Ativo
+27;Lila;Capital Prime;Pequeno;Porto Alegre;RS;700000;167;Alimentos;4/24/2024;(11) 98531-1345;Ativo
+28;Lola;Rota Estratégica;Grande;Salvador;BA;750000;176;Combustivel;04/08/2023;(11) 96371-9068;Ativo
+29;João;AgroMais Distribuição;Pequeno;Belo Horizonte;MG;800000;184;Química;5/20/2025;(11) 99322-9930;Ativo
+30;Pedro;Visionary Tech;Pequeno;Belo Horizonte;MG;850000;193;Animal;11/25/2023;(11) 99095-2590;Desativo
+31;Kethelyn;Pleno Desenvolvimento;Pequeno;Belo Horizonte;MG;900000;201;Varejo;8/30/2023;(11) 93116-1719;Desativo
+32;Samara;Raiz Brasileira Alimentos;Pequeno;Rio de Janeiro;RJ;950000;210;Alimentos;6/29/2025;(11) 97340-6101;Desativo
+33;Tomas;EcoVida Sustentável;Pequeno;Rio de Janeiro;RJ;1000000;218;Combustivel;09/04/2023;(11) 91573-7271;Desativo
+34;Bruno Santos;Progresso Empresarial;Grande;Curitiba;PR;1050000;227;Química;6/15/2024;(11) 97159-6717;Ativo
+35;Daniel Ferreira;Conecta Negócios;Pequeno;Rio de Janeiro;RJ;1100000;235;Varejo;1/27/2024;(11) 93607-7439;Desativo
+36;Eduardo Lima;Elite Solutions;Grande;Curitiba;PR;1150000;244;Alimentos;07/12/2025;(11) 92891-6645;Desativo
+37;Fernanda Alves;Mercado Forte;Grande;Porto Alegre;RS;1200000;252;Combustivel;12/26/2023;(11) 99204-7613;Ativo
+38;Gabriel Costa;Expansão Global;Grande;Porto Alegre;RS;1300000;261;Química;12/22/2023;(11) 92553-8328;Desativo
+39;Helena Martin;Safra Boa Esperança;Grande;Recife;PE;1400000;269;Animal;9/15/2024;(11) 92389-5079;Ativo
+40;André Guimarães;Alfa Prime Negócios Ltda;Pequeno;Belo Horizonte;MG;1500000;278;Varejo;10/26/2024;(11) 94424-6526;Ativo
+41;Bianca Lacerda;Horizonte Azul Comércio;Pequeno;Belo Horizonte;MG;1600000;286;Alimentos;5/28/2025;(11) 97506-8049;Ativo
+42;Caio Montenegro;Nova Safra Agronegócio;Médio;Belo Horizonte;MG;1700000;295;Combustivel;4/15/2023;(11) 95910-9249;Ativo
+43;Débora Siqueira;Vale Forte Distribuidora;Grande;Porto Alegre;RS;1800000;303;Química;10/01/2024;(11) 91182-2646;Desativo
+44;Everton Paiva;Atlas Soluções Corporativas;Médio;Belo Horizonte;MG;1900000;312;Animal;04/01/2023;(11) 91243-7219;Desativo
+45;Fábio Mendonça;Império Verde Alimentos;Pequeno;Belo Horizonte;MG;2000000;320;Varejo;1/16/2023;(11) 99441-6168;Desativo
+46;Jéssica Loureiro;Terra Nova Exportação;Grande;São Paulo;SP;2200000;329;Alimentos;8/19/2024;(11) 93432-4207;Ativo
+47;Leonardo Cunha;Capital Essencial Ltda;Grande;São Paulo;SP;2400000;337;Combustivel;04/04/2025;(11) 98136-9073;Ativo
+48;Patrícia Neve;Raiz do Campo Alimentos;Médio;Rio de Janeiro;RJ;2600000;346;Química;4/16/2024;(11) 92479-1153;Ativo
+49;Samuel Rocha;Integra Mais Serviços;Grande;Salvador;BA;255;354;Animal;1/28/2024;(11) 98671-8528;Desativo
+50;Tatiane Pimentel;Evoluir Gestão Empresarial;Pequeno;São Paulo;SP;260;363;Varejo;1/29/2024;(11) 95359-5724;Ativo

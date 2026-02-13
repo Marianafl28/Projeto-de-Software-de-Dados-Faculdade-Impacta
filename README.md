@@ -5,6 +5,7 @@
 - Formato:
   - CSV (visualização no GitHub)
   - XLSX (edição via Excel Online)
+  - PNG (Foto do Dashboard)
 
 Campos:
 ID, Comprador, Empresa, Porte, Cidade, Estado, Valor, Quantidade, Segmento, Data do Contrato, Telefone

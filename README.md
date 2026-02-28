@@ -4,7 +4,7 @@
 - Fonte: Dados fictícios para fins acadêmicos
 - Formato:
   - CSV (visualização no GitHub)
-  - XLSX (edição via Excel Online)
+  - XLSX (edição em arquivo Excel)
   - PNG (Foto do Dashboard)
 
 Campos:
